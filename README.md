@@ -13,3 +13,7 @@ This project demonstrates how to build realistic ocean/sea animations with waves
 - [Three.js](https://threejs.org/)
 - WebGL / GLSL Shaders
 - JavaScript (ES6)
+
+## 📸 Preview
+![Sea Water Effect](preview.png)
+
